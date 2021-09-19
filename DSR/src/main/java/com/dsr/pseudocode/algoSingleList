@@ -1,0 +1,21 @@
+/* add element in singly list */
+addFirst(e)
+newest = Node(e);
+newset.next = head;
+head = newest;
+size = size + 1;
+
+
+/* add element at last in single list */
+
+addLast(e)
+newest = Node(e)
+newest.next = null
+tail = newest
+size = size + 1	
+
+/* remove element from start */
+if head == null
+return 	empty
+head = head.next
+size = size - 1;	
