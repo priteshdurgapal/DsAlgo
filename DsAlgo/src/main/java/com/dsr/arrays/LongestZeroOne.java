@@ -6,7 +6,7 @@ import java.util.Map;
 public class LongestZeroOne {
 
 	 public static void main (String[] args) {
-	        int arr[] = new int[]{1, 1, 1, 0, 1, 0, 1, 1, 1};
+	        int arr[] = {1, 1, 1, 0, 1, 0, 1, 1, 1};
 	        int len = arr.length;
 	        
 	        System.out.println(largestZeroSubarray(arr, len));
