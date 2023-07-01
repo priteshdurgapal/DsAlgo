@@ -1,4 +1,4 @@
-package com.dsr.bst;
+package com.dsa.bst;
 
 public class TreeNode {
 	private int key;

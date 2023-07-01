@@ -19,3 +19,5 @@ if head == null
 return 	empty
 head = head.next
 size = size - 1;	
+
+

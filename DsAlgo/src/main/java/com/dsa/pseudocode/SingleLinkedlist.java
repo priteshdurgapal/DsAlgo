@@ -1,4 +1,4 @@
-package com.dsr.pseudocode;
+package com.dsa.pseudocode;
 
 public class SingleLinkedlist {
 
