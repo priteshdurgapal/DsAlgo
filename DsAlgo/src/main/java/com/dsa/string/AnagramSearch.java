@@ -48,9 +48,9 @@ public class AnagramSearch {
 		
 		System.out.println(result);
 		
-		String s= "Hello";
-		String sub = s.substring(2, 1);
-		System.out.println(sub);
+		//String s= "Hello";
+		//String sub = s.substring(2, 1);
+		//System.out.println(sub);
 		
 }
 }

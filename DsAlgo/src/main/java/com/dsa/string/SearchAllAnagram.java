@@ -5,7 +5,7 @@ public class SearchAllAnagram {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String s1= "geeksforgeeks";
+		String s1= "geeksforgeeksgrof";
 		String s2="frog";
 		int patLen = s2.length();
 		int givenLen=s1.length();
@@ -28,9 +28,10 @@ public class SearchAllAnagram {
 			
 			
 		}
-		if(isEqual(countOfPattern,countOfString)) {
-			System.out.println("anagram at " + (countOfPattern.length-patLen));
-		}
+		/*
+		 * if(isEqual(countOfPattern,countOfString)) { System.out.println("anagram at "
+		 * + (countOfPattern.length-patLen)); }
+		 */
 		
 		
 		

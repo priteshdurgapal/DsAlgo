@@ -8,7 +8,7 @@ public class LongestNonRepeatSubstring {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String s1 = "abcdbcdbabcbb"; //
+		String s1 = "pwwkew"; //
 		int start = 0;
 		int end = 0;
 		
